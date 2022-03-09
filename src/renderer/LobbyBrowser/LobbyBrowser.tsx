@@ -63,7 +63,7 @@ const servers: {
 	'139.162.111.196': 'Asia',
 	'192.241.154.115': 'skeld.net',
 	'185.7.80.9': 'TOU Master',
-	'78.47.142.18': 'TOR Server',
+	'play.theotherroles.de': 'TOR Server',
 };
 
 function sortLobbies(a: PublicLobby, b: PublicLobby) {
